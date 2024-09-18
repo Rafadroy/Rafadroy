@@ -1,16 +1,15 @@
-## Hi there 👋
+### seja bem vindo a meu perfil 🏫
 
-<!--
-**Rafadroy/Rafadroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafael Luis
 
-Here are some ideas to get you started:
+  -vim pelo [alura](https://www.alura.com.br)
+  
+  -estou estudando a linguagem javascript
+  
+  -to aqui para compartilhar projetos desenvolvidos por mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+em breve
+
+![](https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif)
